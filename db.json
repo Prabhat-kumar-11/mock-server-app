@@ -1,41 +1,20 @@
 {
-  "freelancers": [
+  "users": [
     {
       "id": 1,
-      "name": "John Doe",
-      "email": "john@example.com",
-      "password": "password",
-      "profession": "Web Developer",
-      "skills": ["HTML", "CSS", "JavaScript"],
-      "hourly_rate": 25,
-      "profile_picture": "profile1.jpg",
-			"isBooked" : false
+      "name": "Chandra",
+      "age": 25,
+      "place": "Visakhapatnam",
+      "batch_name": "WEB-21",
+      "profession": "FSD"
     },
     {
       "id": 2,
-      "name": "Jane Smith",
-      "email": "jane@example.com",
-      "password": "password",
-      "profession": "Graphic Designer",
-      "skills": ["Photoshop", "Illustrator"],
-      "hourly_rate": 30,
-      "profile_picture": "profile2.jpg",
-			"isBooked" : true
+      "name": "Nrupul",
+      "age": 37,
+      "place": "Vijayawada",
+      "batch_name": "WEB-18",
+      "profession": "FSD"
     }
   ]
-  ,
-  "users":[{
-    "id":1,
-    "name":"Jane Smith",
-    "avtar":"asdfsldf.svg",
-    "email":"jane@example.com",
-    "password":12345
-  }
-]
-,
-"track-app":[
- {"id":1,"name":"John Doe","email":"jane@example.com","password":12345}
-]
-
-  
 }
