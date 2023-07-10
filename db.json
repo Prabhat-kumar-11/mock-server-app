@@ -3,11 +3,11 @@
    { "name" : "raju",
      "category" : "general",
      "difficulty" : "medium",
-     "noQues" : '10'},
+     "noQues" : 10},
     
     { "name" : "ram",
       "category" : "general",
       "difficulty" : "hard",
-      "noQues" : '10'}
+      "noQues" : 10}
   ]
 }
